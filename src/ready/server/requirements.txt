@@ -1,0 +1,2 @@
+-r ../common/requirements.txt
+flask==3.1.0
